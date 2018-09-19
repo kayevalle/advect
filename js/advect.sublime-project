@@ -24,9 +24,12 @@
 		},
 		{
 			"path": "C:\\wamp\\www\\advectm"
+<<<<<<< HEAD
 		},
 		{
 			"path": "C:\\wamp\\www\\bros"
+=======
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
 		}
 	]
 }

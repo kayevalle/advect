@@ -10,6 +10,7 @@
 
     <?php include 'parts/header.php' ?>
 
+<<<<<<< HEAD
     <section class="body-content">
       <div class="container">
 
@@ -85,6 +86,16 @@
 
           </div>
         </div> <!--end row-->
+=======
+    <section>
+      <div class="container">
+        
+        <div class="section-header">
+          <H4>Contact us</H4>
+        </div>
+        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
 
         </div>
     </section>

@@ -10,10 +10,17 @@
 
     <?php include 'parts/header.php' ?>
 
+<<<<<<< HEAD
 
       <div class="container body-content">
      
         <div class="about-us-section wow fadeIn">
+=======
+    <section>
+      <div class="container">
+        
+        <div class="wow fadeIn">
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
         <div class="section-header">
           <H4>About Us</H4>
         </div>
@@ -21,7 +28,10 @@
             <br><br>
             Advect Marketing Corporation is continuing to grow constantly, dominating the regions of the Luzon and aiming to expand the business year after year.</p>
         </div>
+<<<<<<< HEAD
   
+=======
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
 
         <section id="core-values" style="text-align: center;">
         <h4>OUR VALUES</h4>
@@ -80,7 +90,10 @@
           </div>
         </section>
 
+<<<<<<< HEAD
    
+=======
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
         <div id="mission-vision">
 
           <div class="row">
@@ -107,13 +120,21 @@
            </div>
           </div>
         </div>
+<<<<<<< HEAD
        
+=======
+
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
         <br>
 
 
 
         </div>
+<<<<<<< HEAD
 
+=======
+    </section>
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
 
 
     <!-- Footer -->

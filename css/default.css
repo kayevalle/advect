@@ -7,6 +7,7 @@
 */
 
 html{
+<<<<<<< HEAD
   height: 100%;
   width: 100%;
   /*overflow-y: hidden;*/
@@ -22,6 +23,14 @@ body {
   height: 100%;
   display: flex;
   flex-direction: column;
+=======
+  overflow-y: scroll;
+}
+
+
+body {
+ 
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
   position: relative;
   overflow-x: hidden;
   font-family: "Open Sans", sans-serif;
@@ -32,11 +41,14 @@ section {
   overflow: hidden;
 }
 
+<<<<<<< HEAD
 section.body-content{
   flex: 1 0 auto;
 }
 
 
+=======
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
 a {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -161,7 +173,11 @@ hr {
 *     NAVBAR
 * ==========================================================
 */
+<<<<<<< HEAD
 #home .home, #about-us .about-us, #services .services, #careers .careers, #contact-us .contact-us{
+=======
+#home .home, #about-us .about-us, #services .services, #careers .careers, #contact{
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
   /*border-bottom-color: #d7ae4b;
   border-width: 1px;
   border-top-style: solid;*/
@@ -188,6 +204,7 @@ nav.navbar .navbar-brand img{
   /*width: 50%;*/
 }
 
+<<<<<<< HEAD
 img.mobile{display: none}
 
 @media (max-width: 768px){
@@ -195,6 +212,8 @@ img.mobile{display: none}
   img.mobile{ display: block; }
 }
 
+=======
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
 nav.navbar a.nav-link {
   color: #333;
   font-size: 1.1rem;
@@ -526,7 +545,11 @@ section.banner .CTA a {
   margin-bottom: 30px;
 }
 .section-header h4 {
+<<<<<<< HEAD
   /*font-size: 40px;*/
+=======
+  font-size: 40px;
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
   color: #0c2e8a;
   position: relative;
   padding-bottom: 20px;
@@ -611,8 +634,11 @@ section.banner .CTA a {
 .services_title{
   font-weight: 700;
   font-size: 1.5rem;
+<<<<<<< HEAD
   margin-top: 1rem;
   margin-bottom: 2rem;
+=======
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
 }
 
 .service-box:hover {
@@ -771,7 +797,10 @@ footer.main-footer .copyrights a:hover {
 }*/
 
 footer {
+<<<<<<< HEAD
     flex-shrink: 0;
+=======
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
     background-color: #1B4F72;
     color: #fff;
     float: left;

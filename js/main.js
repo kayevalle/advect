@@ -147,8 +147,13 @@ jQuery(document).ready(function( $ ) {
   //   }
   // });
 
+<<<<<<< HEAD
   // Brand Partners carousel (uses the Owl Carousel library)
   $(".brand-partners-carousel").owlCarousel({
+=======
+  // Testimonials carousel (uses the Owl Carousel library)
+  $(".testimonials-carousel").owlCarousel({
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
     autoplay: true,
     dots: true,
     loop: true,

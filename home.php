@@ -15,7 +15,11 @@
 
     <?php include 'parts/header.php'; ?>
 
+<<<<<<< HEAD
     <div class="body-content">
+=======
+    <div>
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
       
     <section id="intro" class="scrollto background-overlay" >
           <div class="container">
@@ -44,31 +48,50 @@
           <div class="container">
             <div class="card-deck">
               <div class="card wow fadeInUp">
+<<<<<<< HEAD
                 <div class="card-img-top img-fluid" style="background-image: url(img/intro/company.jpg);background-size: cover;background-position: center;height: 250px" ></div>
+=======
+                <img class="card-img-top" src="img/intro/placeholder.png" alt="Card image cap">
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
                 <div class="card-body">
                   <h2 class="card-title">Our Company</h2>
                   <a href="about-us.php" class="btn-learn-more scrollto">Learn More</a>
                 </div>
               </div>
               <div class="card wow fadeInUp" data-wow-delay="0.2s">
+<<<<<<< HEAD
                 <div class="card-img-top img-fluid" style="background-image: url(img/intro/admin.jpg);background-size: cover;background-position: center;height: 250px" ></div>
+=======
+                <img class="card-img-top" src="img/intro/placeholder.png" alt="Card image cap">
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
                 <div class="card-body">
                   <h2 class="card-title">Services</h2>
                   <a href="services.php" class="btn-learn-more scrollto">Learn More</a>
                 </div>
               </div>
               <div class="card wow fadeInUp" data-wow-delay="0.5s">
+<<<<<<< HEAD
                 <div class="card-img-top img-fluid" style="background-image: url(img/intro/careers.jpg);background-size: cover;background-position: center;height: 250px" ></div>
+=======
+                <img class="card-img-top" src="img/intro/placeholder.png" alt="Card image cap">
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
                 <div class="card-body">
                   <h2 class="card-title">Careers</h2>
                   <a href="Careers.php" class="btn-learn-more scrollto">Learn More</a>
                 </div>
               </div>
+<<<<<<< HEAD
               
             </div>
           </div>
         </section>
         </div>
+=======
+            </div>
+          </div>
+        </section>
+
+>>>>>>> 60e7ab9a0588dd96768c18ea10ea3d8f457ebf51
     <!-- Footer -->
     <?php include 'parts/footer.php' ?>
 
