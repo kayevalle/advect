@@ -1,0 +1,468 @@
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+  padding: 20px 0;
+  height: 84px;
+  transition: all 0.5s;
+  z-index: 997;
+  position: sticky;
+  background: #fff;
+  box-shadow: 0px 6px 9px 0px rgba(0, 0, 0, 0.06);
+}
+
+#header #logo h1 {
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+
+}
+
+#header #logo h1 a {
+  color: #0c2e8a;
+  line-height: 1;
+  display: inline-block;
+}
+
+#header #logo h1 a img {
+  width: 50%;
+  margin: 0;
+}
+
+#header #logo h1 a span {
+  color: #50d8af;
+}
+
+#header #logo img {
+  padding: 0;
+  margin: 0;
+  /*width: 50%;*/
+}
+
+@media (max-width: 1200px) {
+  #header {
+    padding: 20px 0;
+    height: 100px;
+  }
+  #header #logo h1 {
+    font-size: 34px;
+  }
+  #header #logo img {
+    max-width: 100%;
+  }
+}
+
+/*--------------------------------------------------------------
+# Navigation Menu
+--------------------------------------------------------------*/
+/* Nav Menu Essentials */
+.nav-menu, .nav-menu * {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav-menu ul {
+  position: absolute;
+  display: none;
+  top: 100%;
+  left: 0;
+  z-index: 99;
+}
+
+.nav-menu li {
+  position: relative;
+  white-space: nowrap;
+}
+
+.nav-menu > li {
+  float: left;
+}
+
+.nav-menu li:hover > ul,
+.nav-menu li.sfHover > ul {
+  display: block;
+}
+
+.nav-menu ul ul {
+  top: 0;
+  left: 100%;
+}
+
+.nav-menu ul li {
+  min-width: 180px;
+}
+
+/* Nav Menu Arrows */
+.sf-arrows .sf-with-ul {
+  padding-right: 22px;
+}
+
+.sf-arrows .sf-with-ul:after {
+  content: "\f107";
+  position: absolute;
+  right: 8px;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.sf-arrows ul .sf-with-ul:after {
+  content: "\f105";
+}
+
+/* Nav Meu Container */
+#nav-menu-container {
+  float: right;
+  margin: 0;
+}
+
+@media (max-width: 1000px) {
+  #nav-menu-container {
+    display: none;
+  }
+}
+
+/* Nav Meu Styling */
+.nav-menu a {
+  padding: 10px 8px;
+  text-decoration: none;
+  display: inline-block;
+  color: #555;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  outline: none;
+}
+
+.nav-menu li:hover > a, .nav-menu > .menu-active > a {
+  color: #007bff;
+}
+
+.nav-menu > li {
+  margin-left: 10px;
+}
+
+.nav-menu ul {
+  margin: 4px 0 0 0;
+  padding: 10px;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  background: #fff;
+}
+
+.nav-menu ul li {
+  transition: 0.3s;
+}
+
+.nav-menu ul li a {
+  padding: 10px;
+  color: #333;
+  transition: 0.3s;
+  display: block;
+  font-size: 13px;
+  text-transform: none;
+}
+
+.nav-menu ul li:hover > a {
+  color: #50d8af;
+}
+
+.nav-menu ul ul {
+  margin: 0;
+}
+
+/* Mobile Nav Toggle */
+#mobile-nav-toggle {
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 999;
+  margin: 20px 20px 0 0;
+  border: 0;
+  background: none;
+  font-size: 24px;
+  display: none;
+  transition: all 0.4s;
+  outline: none;
+  cursor: pointer;
+}
+
+#mobile-nav-toggle i {
+  color: #555;
+}
+
+@media (max-width: 1000px) {
+  #mobile-nav-toggle {
+    display: inline;
+  }
+}
+
+/* Mobile Nav Styling */
+#mobile-nav {
+  position: fixed;
+  top: 0;
+  padding-top: 18px;
+  bottom: 0;
+  z-index: 998;
+  background: rgba(52, 59, 64, 0.9);
+  left: -260px;
+  width: 260px;
+  overflow-y: auto;
+  transition: 0.4s;
+}
+
+#mobile-nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+#mobile-nav ul li {
+  position: relative;
+}
+
+#mobile-nav ul li a {
+  color: #fff;
+  font-size: 16px;
+  overflow: hidden;
+  padding: 10px 22px 10px 15px;
+  position: relative;
+  text-decoration: none;
+  width: 100%;
+  display: block;
+  outline: none;
+}
+
+#mobile-nav ul li a:hover {
+  color: #fff;
+}
+
+#mobile-nav ul li li {
+  padding-left: 30px;
+}
+
+#mobile-nav ul .menu-has-children i {
+  position: absolute;
+  right: 0;
+  z-index: 99;
+  padding: 15px;
+  cursor: pointer;
+  color: #fff;
+}
+
+#mobile-nav ul .menu-has-children i.fa-chevron-up {
+  color: #50d8af;
+}
+
+#mobile-nav ul .menu-item-active {
+  color: #50d8af;
+}
+
+#mobile-body-overly {
+  width: 100%;
+  height: 100%;
+  z-index: 997;
+  top: 0;
+  left: 0;
+  position: fixed;
+  background: rgba(52, 59, 64, 0.9);
+  display: none;
+}
+
+/* Mobile Nav body classes */
+body.mobile-nav-active {
+  overflow: hidden;
+}
+
+body.mobile-nav-active #mobile-nav {
+  left: 0;
+}
+
+body.mobile-nav-active #mobile-nav-toggle {
+  color: #fff;
+}
+
+
+/*--------------------------------------------------------------
+# About Us
+--------------------------------------------------------------*/
+.about-us-section{
+  padding-top: 100px;
+  overflow: hidden;
+}
+
+#mission-vision{
+  padding-bottom: 100px;
+  overflow: hidden;
+}
+
+/*--------------------------------------------------------------
+# Brand Partners
+--------------------------------------------------------------*/
+
+#brand-partners .brand-item {
+  box-sizing: content-box;
+  padding: 30px 30px 0 30px;
+  margin: 30px 15px;
+  text-align: center;
+  min-height: 350px;
+  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 767px) {
+  #brand-partners .brand-item {
+    margin: 30px 10px;
+  }
+}
+
+#brand-partners .brand-item .brand-img {
+  /*width: 90px;*/
+  /*border-radius: 50%;*/
+  border: 4px solid #fff;
+  margin: 0 auto;
+}
+
+#brand-partners .brand-item p {
+  font-style: italic;
+  margin: 20px auto 15px auto;
+}
+
+#brand-partners .owl-nav, #brand-partners .owl-dots {
+  margin-top: 5px;
+  text-align: center;
+}
+
+#brand-partners .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ddd;
+}
+
+#brand-partners .owl-dot.active {
+  background-color: #50d8af;
+}
+
+#brand-partners .brand-item:hover{
+  transform: scale(1.0);
+}
+
+/*--------------------------------------------------------------
+# Services
+--------------------------------------------------------------*/
+div.services-list .icon{
+  font-size: 0.9rem;
+  margin-bottom: 30px;
+  color: rgb(112,222,249);
+}
+
+div.services-list h4{
+  font-size: 1.5rem;
+}
+
+div.services-list .text p {
+    line-height: 1.8rem;
+    font-size: 0.95rem;
+    color: #656565;
+    margin: 20px 0 25px;
+}
+
+/*--------------------------------------------------------------
+# Careers
+--------------------------------------------------------------*/
+.career-tab .location{
+  margin: 0px 10px 0px 10px;
+}
+
+.careers-group { display:none; }
+
+@media (max-width: 768px){
+  .careers-group1 { display: none; }
+  .careers-group  { display: block; }
+}
+
+/*--------------------------------------------------------------
+# Contact us
+--------------------------------------------------------------*/
+
+@media (max-width: 768px){
+  .section-header h4 { font-size: 30px; }
+}
+
+.contact-info li .icon_box, .contact-info li .text-box {
+    display: table-cell;
+    vertical-align: top;
+}
+
+.contact-info .icon_box {
+    width: 45px;
+}
+
+.con-icon{
+    font-size: 26px;
+    color: #5DADE2;
+    position: relative;
+    top: 2px;
+}
+
+.text-box{
+  font-size: 0.98rem;
+}
+
+.contact-info li + li {
+    /*margin-top: 15px;*/
+    border-top: 1px solid #f1f1f1;
+    padding-top: 20px;
+}
+
+ul.info{
+  margin-left: -1rem;
+}
+
+.default-form input[type="text"], .default-form input[type="email"], .default-form input[type="password"], .default-form input[type="number"], .default-form select, .default-form textarea {
+    display: block;
+    width: 100%;
+    line-height: 24px;
+    height: 52px;
+    font-size: 16px;
+    box-shadow: none;
+    border: 1px solid #f4f4f4;
+    padding: 12px 15px;
+    background: #fff;
+    border-radius: 0px;
+    transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+
+.default-form textarea {
+    height: 124px;
+}
+
+.default-form .form-control:focus {
+    border-color: rgb(81, 203, 238);
+    box-shadow: none;
+}
+
+.btn-contact-send{
+    position: relative;
+    padding: 11px 30px;
+    border-radius: 25px;
+    line-height: 24px;
+    color: #ffffff;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+    background: #5DADE2;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: 2px solid #5DADE2;
+    margin-bottom: 50px;
+}

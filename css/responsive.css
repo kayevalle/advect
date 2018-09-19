@@ -1,0 +1,42 @@
+
+
+/* 
+===============================================
+			MOBILE RESPONSIVE
+===============================================
+*/
+
+@media (max-width: 500px) {
+	section {
+	  padding: 50px 0;
+	  overflow: hidden;
+	}
+}
+
+@media (max-width: 1300px) {
+	section {
+	  padding: 50px 0;
+	  overflow: hidden;
+	}
+
+}
+
+@media (max-width: 1100px) {
+	section {
+	  padding: 50px 0;
+	  overflow: hidden;
+	}
+
+}
+
+@media (max-width: 576px) and (max-width: 768px){
+	#career-description{
+		margin-top: 50px;
+	}
+}
+
+@media (max-width: 992px){
+	#career-description{
+		margin-top: 50px;
+	}
+}
