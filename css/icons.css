@@ -1,0 +1,115 @@
+
+
+.core-v-card{
+	margin-bottom: 20px;
+}
+
+.core-v-icons{
+	margin: auto -100px 0;
+	float: left;
+}
+
+.core-v-text{
+	font-size: 15.5px;
+	padding-left: 60px;
+}
+
+.careers-group{
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.careers-list a{
+	margin-bottom: 0.5rem;
+	margin-top: 0.5rem;
+}
+
+.career{
+	display: block;
+	border: 1px solid #e7eaf3;
+	border-radius: 0.25rem;
+	padding: 0.75rem;
+	color: red;
+}
+
+.careers{
+	padding: 0.5rem !important;
+}
+
+.careers > .card-body > a{
+	padding: 0px!important;
+	line-height: 0px !important;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+}
+
+.careers-text{
+	color: black;
+}
+
+
+.careers:hover a{
+	color: #007bff;
+}
+
+.careers:hover{
+	background-color: rgba(0,102,205,0.03);
+}
+
+
+.career-label{
+	display: inline-block;
+	transition: 0.2s ease-in-out;
+	font-weight: 500;
+	border-radius: 2.5rem;
+	padding: 0.5rem 1rem;
+	color: #17bef0;
+	background-color: rgba(112,222,249,0.1);
+}
+
+
+/* 
+===============================================
+			MOBILE RESPONSIVE
+===============================================
+*/
+
+@media (max-width: 500px) {
+  .core-v-icons{
+  	margin: 0px !important;
+  	/*display: block;*/
+  	float: none !important;
+  }
+
+  .core-v-text {
+  	font-size: 15.5px;
+  	padding-left: 0px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .core-v-icons{
+	margin: auto -100px 0;
+	float: left;
+  }
+
+  .core-v-text > p{
+	font-size: 15.5px;
+	padding-left: 0px;
+  }
+
+}
+
+@media (max-width: 1100px) {
+  .core-v-icons{
+	margin: auto -110px 0;
+	float: left;
+  }
+
+  .core-v-text > p{
+	font-size: 15.5px;
+	padding-left: 0px;
+  }
+
+}

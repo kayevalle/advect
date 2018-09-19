@@ -1,0 +1,1676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"con",
+				"contact-link"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"list",
+				"list-group"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ca",
+				"careers-text"
+			],
+			[
+				"careers",
+				"careers-text"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"carre",
+				"careers"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"inn",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"caree",
+				"careers"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"fas",
+				"fas"
+			],
+			[
+				"nav-menu",
+				"nav-menu-container"
+			],
+			[
+				"tetx",
+				"text-center"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			],
+			[
+				"result",
+				"resultTable"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"MYSQL",
+				"MYSQLI_ASSOC"
+			],
+			[
+				"albu",
+				"album_name"
+			],
+			[
+				"album",
+				"album_id"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_array"
+			],
+			[
+				"al",
+				"album_name_query"
+			],
+			[
+				"cate",
+				"categories_id"
+			],
+			[
+				"cat",
+				"categories_id"
+			],
+			[
+				"alb",
+				"album_id"
+			],
+			[
+				"cater",
+				"categories_name"
+			],
+			[
+				"ran",
+				"random_name"
+			],
+			[
+				"categ",
+				"categories_id"
+			],
+			[
+				"mysql_asso",
+				"MYSQLI_ASSOC"
+			],
+			[
+				"col-l",
+				"col-lg-12"
+			],
+			[
+				"ser",
+				"service-box"
+			],
+			[
+				"service",
+				"services-icon"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"order",
+				"order-1"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"backgro",
+				"background-attachment\tproperty"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"transl",
+				"translateY()"
+			],
+			[
+				"tras",
+				"transform-origin"
+			],
+			[
+				"trans",
+				"translateY()"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Sans",
+				"sans-serif"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"BACKGROU",
+				"background-color"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"col-sm",
+				"col-sm-4"
+			],
+			[
+				"bak",
+				"background-repeat"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"navbar",
+				"navbar-right"
+			],
+			[
+				"insta",
+				"insta"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"td",
+				"tbody\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/advectm/home.php",
+			"settings":
+			{
+				"buffer_size": 3428,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/index.php",
+			"settings":
+			{
+				"buffer_size": 47,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "index"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/parts/head.php",
+			"settings":
+			{
+				"buffer_size": 1815,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/css/responsive.css",
+			"settings":
+			{
+				"buffer_size": 560,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "bb"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/pages/careers.php",
+			"settings":
+			{
+				"buffer_size": 5383,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/pages/home.php",
+			"settings":
+			{
+				"buffer_size": 3318,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/pages/home-content.php",
+			"settings":
+			{
+				"buffer_size": 12721,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/parts/script.php",
+			"settings":
+			{
+				"buffer_size": 596,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advect/index.html",
+			"settings":
+			{
+				"buffer_size": 4011,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "html"
+			}
+		},
+		{
+			"file": "/C/wamp/www/amc/js/scroll.js",
+			"settings":
+			{
+				"buffer_size": 612,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/amc/css/default.css",
+			"settings":
+			{
+				"buffer_size": 4958,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/amc/js/scrollIt.js",
+			"settings":
+			{
+				"buffer_size": 1417,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "(function(e){\"use strict\";var t=\"ScrollIt\",n=\"1.0."
+			}
+		},
+		{
+			"file": "/C/wamp/www/amc/css/nav.css",
+			"settings":
+			{
+				"buffer_size": 347,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/amc/css/helper.css",
+			"settings":
+			{
+				"buffer_size": 259556,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/centerpointt/minda/welcome_noticeadd.php",
+			"settings":
+			{
+				"buffer_size": 12390,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/centerpointt/minda/welcome_eventsadd1.php",
+			"settings":
+			{
+				"buffer_size": 689,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/centerpointt/minda/dash_products.php",
+			"settings":
+			{
+				"buffer_size": 12902,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Reveal/index.html",
+			"settings":
+			{
+				"buffer_size": 25492,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "custom.js",
+			"settings":
+			{
+				"buffer_size": 233,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 5767,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/css/icons.css",
+			"settings":
+			{
+				"buffer_size": 1526,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "hbh"
+			}
+		},
+		{
+			"file": "/C/wamp/www/Reveal/css/style.css",
+			"settings":
+			{
+				"buffer_size": 18020,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/css/style.css",
+			"settings":
+			{
+				"buffer_size": 4306,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/css/default.css",
+			"settings":
+			{
+				"buffer_size": 8776,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "/* \n========================================= \n========================================= \n\nBootstrapious Landy Template\n\nhttps://bootstrapious.com\n\n========================================= \n========================================= */\n/*\n* ==========================================================\n*     GENERAL\n* ==========================================================\n*/\nbody {\n  padding-top: 80px;\n  position: relative;\n  overflow-x: hidden;\n}\n\nsection {\n  padding: 150px 0;\n  overflow: hidden;\n}\n\na {\n  -webkit-transition: all 0.3s;\n  transition: all 0.3s;\n  display: inline-block;\n}\n\np {\n  line-height: 1.7rem;\n}\n\nbutton {\n  cursor: pointer;\n}\n\ni,\nspan,\nstrong {\n  display: inline-block;\n}\n\n.bg-gray, section.browser .nav-tabs a.active {\n  background: #f5f5f5;\n}\n\n.no-padding {\n  padding: 0 !important;\n}\n\n.no-padding-top {\n  padding-top: 0 !important;\n}\n\n.no-padding-bottom {\n  padding-bottom: 0 !important;\n}\n\n.no-margin {\n  margin: 0 !important;\n}\n\n.no-margin-top {\n  margin-top: 0 !important;\n}\n\n.no-margin-bottom {\n  margin-bottom: 0 !important;\n}\n\n.hero-text {\n  font-size: 1.1rem;\n  font-weight: 400;\n  color: #777;\n  line-height: 1.5rem;\n}\n\n.btn {\n  font-size: 0.9em !important;\n}\n\n.btn-primary:focus {\n  color: #fff;\n}\n\n.btn-shadow {\n  -webkit-box-shadow: 0 10px 20px rgba(109, 109, 109, 0.16) !important;\n  box-shadow: 0 10px 20px rgba(109, 109, 109, 0.16) !important;\n}\n\n.btn-gradient, section.browser .nav-tabs span.number {\n  background-color: #5989e5;\n  background-image: -webkit-gradient(linear, left top, right top, from(#5989e5), to(#37cfdc));\n  background-image: linear-gradient(to right, #5989e5, #37cfdc);\n  border: none !important;\n  text-transform: uppercase;\n  color: #fff;\n  overflow: hidden;\n  position: relative;\n  z-index: 1;\n  -webkit-transition: all 0.3s !important;\n  transition: all 0.3s !important;\n}\n\n.btn.btn-gradient:hover, section.browser .nav-tabs span.btn.number:hover {\n  opacity: 0.85;\n}\n\n.has-shadow {\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n}\n\n.owl-theme .owl-nav {\n  margin-top: 0;\n}\n\n.owl-theme .owl-nav [class*='owl-'] {\n  background: none;\n  color: #222;\n  font-size: 2rem;\n  margin: 0 20px;\n}\n\n.owl-theme .owl-nav [class*='owl-'].disabled {\n  color: #aaa;\n}\n\n.owl-theme .owl-nav [class*='owl-']:hover {\n  background: none;\n  color: #333;\n}\n\nsection header {\n  margin-bottom: 70px;\n}\n\n.scrollUp {\n  -webkit-transform: translateY(-105%);\n  transform: translateY(-105%);\n}\n\n.breadcrumb {\n  background: none;\n  padding: 0;\n  margin-bottom: 20px;\n}\n\n.breadcrumb a {\n  color: #222;\n  text-decoration: none !important;\n}\n\n.breadcrumb li {\n  color: #aaa;\n}\n\n.block {\n  margin-bottom: 50px;\n}\n\n/* Browser mockup code\n * Contribute: https://gist.github.com/jarthod/8719db9fef8deb937f4f\n * Live example: https://updown.io\n */\n.browser-mockup {\n  border-top: 50px solid #f7f7f7;\n  position: relative;\n  border-radius: 3px 3px 0 0;\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n}\n\n.browser-mockup:before {\n  display: block;\n  position: absolute;\n  content: '';\n  top: -29px;\n  left: 30px;\n  width: 8px;\n  height: 8px;\n  border-radius: 50%;\n  background-color: #f44;\n  -webkit-box-shadow: 0 0 0 2px #f44, 1.5em 0 0 2px #9b3, 3em 0 0 2px #fb5;\n  box-shadow: 0 0 0 2px #f44, 1.5em 0 0 2px #9b3, 3em 0 0 2px #fb5;\n}\n\n.browser-mockup.with-tab:after {\n  display: block;\n  position: absolute;\n  content: '';\n  top: -50px;\n  left: 115px;\n  width: 20%;\n  height: 0rem;\n  border-bottom: 50px solid white;\n  border-left: 1.5em solid transparent;\n  border-right: 1.5em solid transparent;\n}\n\n.browser-mockup.with-url:after {\n  display: block;\n  position: absolute;\n  content: '';\n  top: -1.6rem;\n  left: 5.5rem;\n  width: calc(100% - 6em);\n  height: 1.2rem;\n  border-radius: 2px;\n  background-color: white;\n}\n\n.browser-mockup > * {\n  display: block;\n}\n\n.blockquote {\n  line-height: 1.7rem;\n  color: #656565;\n  padding: 40px;\n  background: #fff;\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n}\n\n.blockquote p::first-letter {\n  font-size: 2.5rem;\n  color: #5989e5;\n  font-weight: 800;\n}\n\n.modal {\n  background: rgba(0, 0, 0, 0.8);\n}\n\n.modal button.close {\n  width: 40px;\n  height: 40px;\n  line-height: 40px;\n  color: #fff;\n  text-align: center;\n  background-color: #5989e5;\n  background-image: -webkit-gradient(linear, left top, right top, from(#5989e5), to(#37cfdc));\n  background-image: linear-gradient(to right, #5989e5, #37cfdc);\n  position: absolute;\n  top: 0;\n  right: 0;\n  opacity: 1;\n}\n\n.modal-content {\n  border-radius: 0;\n}\n\n.modal-header,\n.modal-body {\n  padding: 20px 30px;\n  border: none;\n}\n\n#signupform .form-group {\n  margin-bottom: 20px;\n}\n\n#signupform label {\n  display: block;\n  padding-left: 10px;\n  color: #656565;\n  font-family: \"Open Sans\", sans-serif;\n}\n\n#signupform input {\n  width: 100%;\n  display: block;\n  padding: 10px 20px;\n  border-radius: 50px;\n  border: 1px solid #eee;\n  outline: none;\n}\n\n#signupform input:focus {\n  border-color: #5989e5;\n}\n\n#signupform input::-moz-placeholder {\n  font-family: \"Open Sans\", sans-serif;\n  font-weight: 300;\n  color: #aaa;\n  font-style: italic;\n  font-size: 0.9em;\n}\n\n#signupform input::-webkit-input-placeholder {\n  font-family: \"Open Sans\", sans-serif;\n  font-weight: 300;\n  color: #aaa;\n  font-style: italic;\n  font-size: 0.9em;\n}\n\n#signupform input:-ms-input-placeholder {\n  font-family: \"Open Sans\", sans-serif;\n  font-weight: 300;\n  color: #aaa;\n  font-style: italic;\n  font-size: 0.9em;\n}\n\n/* General Media Query ---------------------------------- */\n@media (max-width: 991px) {\n  section {\n    padding: 100px 0;\n  }\n}\n\n/*\n* ==========================================================\n*     NAVBAR\n* ==========================================================\n*/\nnav.navbar {\n  padding-top: 15px;\n  padding-bottom: 15px;\n  -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);\n  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);\n  background: #fff;\n  -webkit-transition: all 0.5s;\n  transition: all 0.5s;\n}\n\nnav.navbar .navbar-brand {\n  font-weight: 800;\n  font-size: 1.7rem;\n  color: #222;\n}\n\nnav.navbar a.nav-link {\n  color: #333;\n  font-size: 1.1rem;\n}\n\nnav.navbar a.nav-link:hover, nav.navbar a.nav-link.active {\n  color: #5989e5;\n}\n\nnav.navbar .navbar-btn {\n  margin-left: 15px;\n}\n\nnav.navbar .navbar-toggler {\n  outline: none;\n}\n\nnav.navbar .navbar-toggler span {\n  width: 25px;\n  margin: 5px;\n  display: block;\n  height: 2px;\n  background: #333;\n  -webkit-transition: all 0.2s;\n  transition: all 0.2s;\n}\n\nnav.navbar .navbar-toggler.active span:first-of-type {\n  -webkit-transform: rotate(45deg) translate(10px);\n  transform: rotate(45deg) translate(10px);\n}\n\nnav.navbar .navbar-toggler.active span:last-of-type {\n  -webkit-transform: rotate(-45deg) translate(10px);\n  transform: rotate(-45deg) translate(10px);\n}\n\nnav.navbar .navbar-toggler.active span:nth-of-type(2) {\n  opacity: 0;\n}\n\n/* Navbar Mediaquery ----------------------------------- */\n@media (max-width: 1199px) {\n  nav.navbar .navbar-btn {\n    margin-left: 0;\n  }\n}\n\n@media (min-width: 992px) {\n  nav.navbar {\n    padding-left: 3rem;\n    padding-right: 3rem;\n  }\n}\n\n/*\n* ==========================================================\n*     HERO SECTION\n* ==========================================================\n*/\nsection.hero p {\n  margin: 20px 0;\n}\n\nsection.hero .CTA {\n  margin-top: 40px;\n}\n\nsection.hero .CTA a {\n  margin-right: 10px;\n  margin-bottom: 10px;\n}\n\n/*\n* ==========================================================\n*     BROWSER SECTION\n* ==========================================================\n*/\nsection.browser .nav-tabs {\n  margin-top: 80px;\n  border: none;\n}\n\nsection.browser .nav-tabs span.number {\n  width: 50px;\n  height: 50px;\n  line-height: 50px;\n  color: #fff;\n  text-align: center;\n  border-radius: 50%;\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  display: block;\n  position: absolute;\n  left: calc(50% - 25px);\n  top: -25px;\n  font-size: 1.4rem;\n  font-weight: 700;\n}\n\nsection.browser .nav-tabs a {\n  border: none;\n  background: none;\n  border-right: 0;\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  padding: 50px 50px 40px;\n  text-align: center;\n  color: #333;\n}\n\nsection.browser .nav-tabs a.active {\n  -webkit-transform: translateY(-20px);\n  transform: translateY(-20px);\n}\n\n/* Browser Section Mediaquery --------------------------- */\n@media (max-width: 767px) {\n  section.browser .nav-tabs a {\n    margin-bottom: 50px;\n  }\n  section.browser .nav-tabs a.active {\n    -webkit-transform: none;\n    transform: none;\n  }\n  section.browser .nav-tabs .row div:last-of-type a {\n    margin-bottom: 0;\n  }\n}\n\n/*\n* ==========================================================\n*     ABOUT US\n* ==========================================================\n*/\nsection.about-us p {\n  margin: 30px 0;\n}\n\n/*\n* ==========================================================\n*     FEATURES SECTION\n* ==========================================================\n*/\nsection.features .row {\n  margin-bottom: 40px;\n}\n\nsection.features .row:last-of-time {\n  margin-bottom: 0;\n}\n\nsection.features .icon {\n  width: 50px;\n  height: 50px;\n  margin-bottom: 30px;\n}\n\nsection.features .text p {\n  line-height: 1.8rem;\n  font-size: 0.95rem;\n  color: #656565;\n  margin: 20px 0 25px;\n}\n\n/* Features Section Mediaquery -------------------------- */\n@media (max-width: 1199px) {\n  section.features .text {\n    margin-bottom: 50px;\n  }\n}\n\n/*\n* ==========================================================\n*     EXTRA SECTION\n* ==========================================================\n*/\nsection.extra-features {\n  color: #fff;\n}\n\nsection.extra-features h2,\nsection.extra-features h3 {\n  color: inherit;\n}\n\nsection.extra-features .icon {\n  font-size: 2.7rem;\n  margin-bottom: 20px;\n}\n\nsection.extra-features .item {\n  padding: 50px 30px;\n  -webkit-transition: all 0.3s;\n  transition: all 0.3s;\n  cursor: default;\n}\n\nsection.extra-features .item:hover {\n  background: #4c80e3;\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n}\n\nsection.extra-features .item p {\n  font-weight: 300;\n  margin: 20px 0;\n}\n\n/*\n* ==========================================================\n*     TESTIMONIALS SECTION\n* ==========================================================\n*/\nsection.testimonials .owl-carousel .owl-stage-outer {\n  padding: 70px 0 50px;\n}\n\nsection.testimonials .item-holder {\n  padding-right: 40px;\n  padding-left: 40px;\n}\n\nsection.testimonials .quote {\n  width: 40px;\n  height: 40px;\n  margin-bottom: 20px;\n}\n\nsection.testimonials .item {\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  position: relative;\n  margin: 0 30px;\n  margin-right: 0;\n  padding: 70px 50px;\n  padding-left: 70px;\n}\n\nsection.testimonials .item p {\n  line-height: 1.8rem;\n  font-size: 0.9rem;\n  line-height: 1.7rem;\n  color: #656565;\n}\n\nsection.testimonials .avatar {\n  width: 80px;\n  height: 80px;\n  border-radius: 50%;\n  overflow: hidden;\n  position: absolute;\n  top: 50%;\n  left: 0;\n  -webkit-transform: translate(-50%, -50%);\n  transform: translate(-50%, -50%);\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n}\n\n/* Testimonials Media Query ------------------------- */\n@media (max-width: 1199px) {\n  section.testimonials .item {\n    -webkit-box-shadow: -5.665px 9.429px 25px 0px rgba(0, 0, 0, 0.2);\n    box-shadow: -5.665px 9.429px 25px 0px rgba(0, 0, 0, 0.2);\n    padding: 60px 40px 40px;\n  }\n  section.testimonials .item .avatar {\n    position: absolute;\n    top: 0;\n    left: 50%;\n  }\n}\n\n/*\n* ==========================================================\n*     NEWSLETTER SECTION\n* ==========================================================\n*/\nsection.newsletter .form-holder {\n  padding: 70px 40px;\n  background: #fff;\n  -webkit-box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  box-shadow: -5.665px 9.429px 35px 0px rgba(0, 0, 0, 0.2);\n  margin-top: 70px;\n}\n\nsection.newsletter .form-group {\n  position: relative;\n  margin-bottom: 0;\n}\n\nsection.newsletter .form-group input {\n  width: 100%;\n  height: 68px;\n  line-height: 68px;\n  border: 1px solid #ddd;\n  border-radius: 50px;\n  background: none;\n  outline: none;\n  padding: 0 30px;\n  font-family: \"Open Sans\", sans-serif;\n}\n\nsection.newsletter .form-group input::-moz-placeholder {\n  font-family: \"Open Sans\", sans-serif;\n  font-weight: 300;\n}\n\nsection.newsletter .form-group input::-webkit-input-placeholder {\n  font-family: \"Open Sans\", sans-serif;\n  font-weight: 300;\n}\n\nsection.newsletter .form-group input:-ms-input-placeholder {\n  font-family: \"Open Sans\", sans-serif;\n  font-weight: 300;\n}\n\nsection.newsletter .form-group .submit {\n  height: 54px;\n  line-height: 54px;\n  padding-top: 0;\n  padding-bottom: 0;\n  position: absolute;\n  top: 7px;\n  right: 7px;\n}\n\n/* Newsletter Section Mediaquery -------------------------- */\n@media (max-width: 991px) {\n  section.newsletter .form-group input {\n    width: 100%;\n  }\n  section.newsletter .form-group .submit {\n    width: 100%;\n    position: static;\n    margin-top: 15px;\n  }\n}\n\n/*\n* ==========================================================\n*     FOOTER\n* ==========================================================\n*/\nfooter.main-footer {\n  padding: 150px 0 0;\n  overflow-x: hidden;\n}\n\nfooter.main-footer a {\n  color: inherit;\n  text-decoration: none;\n}\n\nfooter.main-footer .brand {\n  font-weight: 800;\n  font-size: 1.7rem;\n  color: #222;\n  margin-bottom: 20px;\n}\n\nfooter.main-footer ul.contact-info {\n  color: #444;\n}\n\nfooter.main-footer ul.contact-info a {\n  margin-bottom: 5px;\n}\n\nfooter.main-footer ul.contact-info a:hover {\n  color: #5989e5;\n}\n\nfooter.main-footer h5 {\n  margin-bottom: 30px;\n}\n\nfooter.main-footer ul.links {\n  color: #888;\n}\n\nfooter.main-footer ul.links a {\n  margin-bottom: 8px;\n}\n\nfooter.main-footer ul.links a:hover {\n  color: #5989e5;\n}\n\nfooter.main-footer ul.social-icons {\n  margin-top: 15px;\n  margin-bottom: 50px;\n}\n\nfooter.main-footer ul.social-icons a {\n  width: 26px;\n  height: 26px;\n  line-height: 26px;\n  background: #222;\n  color: #fff;\n  text-align: center;\n  border-radius: 50%;\n  font-size: 0.8rem;\n}\n\nfooter.main-footer ul.social-icons a:hover {\n  background: #5989e5;\n}\n\nfooter.main-footer .copyrights {\n  margin-top: 150px;\n}\n\nfooter.main-footer .copyrights .container {\n  padding: 30px 0;\n  border-top: 1px solid #ddd;\n}\n\nfooter.main-footer .copyrights p {\n  margin-bottom: 0;\n}\n\nfooter.main-footer .copyrights a:hover {\n  color: #5989e5;\n}\n\n/* Footer Mediaquery -------------------------- */\n@media (max-width: 991px) {\n  footer.main-footer {\n    padding: 100px 0 0;\n  }\n  footer.main-footer .copyrights {\n    margin-top: 100px;\n  }\n  footer.main-footer .copyrights div[class*=\"col-\"] {\n    text-align: center !important;\n  }\n}\n\n/* ===================================================================\n    SCROLL TO TOP BUTTON\n===================================================================  */\n#scrollTop {\n  width: 80px;\n  height: 40px;\n  position: fixed;\n  right: -90px;\n  bottom: 50%;\n  background-color: #5989e5;\n  background-image: -webkit-gradient(linear, left top, right top, from(#5989e5), to(#37cfdc));\n  background-image: linear-gradient(to right, #5989e5, #37cfdc);\n  color: #fff;\n  text-align: center;\n  line-height: 40px;\n  border-top-left-radius: 50px;\n  border-bottom-left-radius: 50px;\n  -webkit-box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);\n  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);\n  font-size: 0.7rem;\n  cursor: pointer;\n  z-index: 9998;\n  padding-right: 10px;\n  -webkit-transition: all 0.3s;\n  transition: all 0.3s;\n}\n\n#scrollTop.active {\n  right: -50px;\n}\n\n#scrollTop i {\n  font-size: 1.1rem;\n  margin-right: 10px;\n}\n\n#scrollTop:hover {\n  right: 0;\n}\n\n/* Scroll Top Media Query ------------------------- */\n@media (max-width: 1199px) {\n  #scrollTop {\n    display: none !important;\n  }\n}\n\n/*\n\n=====================\nSTYLE SWITCHER FOR DEMO\n=====================\n\n*/\n#style-switch-button {\n  position: fixed;\n  top: 120px;\n  left: 0px;\n  border-radius: 0;\n  z-index: 2;\n}\n\n#style-switch {\n  width: 300px;\n  padding: 20px;\n  position: fixed;\n  top: 160px;\n  left: 0;\n  background: #fff;\n  border: solid 1px #ced4da;\n  z-index: 2000;\n}\n\n#style-switch h4 {\n  color: #495057;\n}\n\n/* =========================================\n   THEMING OF BOOTSTRAP COMPONENTS\n   ========================================= */\n/*\n * 1. NAVBAR\n */\n.navbar {\n  padding: 0.5rem 1rem;\n}\n\n.navbar-brand {\n  display: inline-block;\n  padding-top: 0.3125rem;\n  padding-bottom: 0.3125rem;\n  margin-right: 1rem;\n  font-size: 1.25rem;\n}\n\n.navbar-toggler {\n  padding: 0.25rem 0.75rem;\n  font-size: 1.25rem;\n  line-height: 1;\n  border: 1px solid transparent;\n  border-radius: 50px;\n}\n\n.navbar-light .navbar-brand {\n  color: rgba(0, 0, 0, 0.9);\n}\n\n.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {\n  color: rgba(0, 0, 0, 0.9);\n}\n\n.navbar-light .navbar-nav .nav-link {\n  color: rgba(0, 0, 0, 0.5);\n}\n\n.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {\n  color: rgba(0, 0, 0, 0.7);\n}\n\n.navbar-light .navbar-nav .nav-link.disabled {\n  color: rgba(0, 0, 0, 0.3);\n}\n\n.navbar-light .navbar-nav .show > .nav-link,\n.navbar-light .navbar-nav .active > .nav-link,\n.navbar-light .navbar-nav .nav-link.show,\n.navbar-light .navbar-nav .nav-link.active {\n  color: rgba(0, 0, 0, 0.9);\n}\n\n.navbar-light .navbar-toggler {\n  color: rgba(0, 0, 0, 0.5);\n  border-color: rgba(0, 0, 0, 0.1);\n}\n\n.navbar-light .navbar-toggler-icon {\n  background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E\");\n}\n\n.navbar-light .navbar-text {\n  color: rgba(0, 0, 0, 0.5);\n}\n\n.navbar-dark .navbar-brand {\n  color: white;\n}\n\n.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {\n  color: white;\n}\n\n.navbar-dark .navbar-nav .nav-link {\n  color: rgba(255, 255, 255, 0.5);\n}\n\n.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {\n  color: rgba(255, 255, 255, 0.75);\n}\n\n.navbar-dark .navbar-nav .nav-link.disabled {\n  color: rgba(255, 255, 255, 0.25);\n}\n\n.navbar-dark .navbar-nav .show > .nav-link,\n.navbar-dark .navbar-nav .active > .nav-link,\n.navbar-dark .navbar-nav .nav-link.show,\n.navbar-dark .navbar-nav .nav-link.active {\n  color: white;\n}\n\n.navbar-dark .navbar-toggler {\n  color: rgba(255, 255, 255, 0.5);\n  border-color: rgba(255, 255, 255, 0.1);\n}\n\n.navbar-dark .navbar-toggler-icon {\n  background-image: url(\"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E\");\n}\n\n.navbar-dark .navbar-text {\n  color: rgba(255, 255, 255, 0.5);\n}\n\n/*\n * 2. BUTTONS\n */\n.btn {\n  font-weight: 400;\n  border: 1px solid transparent;\n  padding: 0.6rem 3rem;\n  font-size: 1rem;\n  line-height: 1.5;\n  border-radius: 50px;\n  -webkit-transition: all 0.15s ease-in-out;\n  transition: all 0.15s ease-in-out;\n}\n\n.btn:focus, .btn.focus {\n  outline: 0;\n  -webkit-box-shadow: 0 0 0 3px rgba(89, 137, 229, 0.25);\n  box-shadow: 0 0 0 3px rgba(89, 137, 229, 0.25);\n}\n\n.btn:active, .btn.active {\n  background-image: none;\n}\n\n.btn-primary {\n  color: #fff;\n  background-color: #5989e5;\n  border-color: #5989e5;\n}\n\n.btn-primary:hover {\n  color: #fff;\n  background-color: #3871e0;\n  border-color: #2d6ade;\n}\n\n.btn-primary:focus, .btn-primary.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(89, 137, 229, 0.5);\n  box-shadow: 0 0 0 3px rgba(89, 137, 229, 0.5);\n}\n\n.btn-primary.disabled, .btn-primary:disabled {\n  background-color: #5989e5;\n  border-color: #5989e5;\n}\n\n.btn-primary:active, .btn-primary.active,\n.show > .btn-primary.dropdown-toggle {\n  background-color: #3871e0;\n  background-image: none;\n  border-color: #2d6ade;\n}\n\n.btn-secondary {\n  color: #fff;\n  background-color: #868e96;\n  border-color: #868e96;\n}\n\n.btn-secondary:hover {\n  color: #fff;\n  background-color: #727b84;\n  border-color: #6c757d;\n}\n\n.btn-secondary:focus, .btn-secondary.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(134, 142, 150, 0.5);\n  box-shadow: 0 0 0 3px rgba(134, 142, 150, 0.5);\n}\n\n.btn-secondary.disabled, .btn-secondary:disabled {\n  background-color: #868e96;\n  border-color: #868e96;\n}\n\n.btn-secondary:active, .btn-secondary.active,\n.show > .btn-secondary.dropdown-toggle {\n  background-color: #727b84;\n  background-image: none;\n  border-color: #6c757d;\n}\n\n.btn-success {\n  color: #fff;\n  background-color: #28a745;\n  border-color: #28a745;\n}\n\n.btn-success:hover {\n  color: #fff;\n  background-color: #218838;\n  border-color: #1e7e34;\n}\n\n.btn-success:focus, .btn-success.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.5);\n  box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.5);\n}\n\n.btn-success.disabled, .btn-success:disabled {\n  background-color: #28a745;\n  border-color: #28a745;\n}\n\n.btn-success:active, .btn-success.active,\n.show > .btn-success.dropdown-toggle {\n  background-color: #218838;\n  background-image: none;\n  border-color: #1e7e34;\n}\n\n.btn-info {\n  color: #111;\n  background-color: #37cfdc;\n  border-color: #37cfdc;\n}\n\n.btn-info:hover {\n  color: #111;\n  background-color: #23bcc9;\n  border-color: #21b2bf;\n}\n\n.btn-info:focus, .btn-info.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(55, 207, 220, 0.5);\n  box-shadow: 0 0 0 3px rgba(55, 207, 220, 0.5);\n}\n\n.btn-info.disabled, .btn-info:disabled {\n  background-color: #37cfdc;\n  border-color: #37cfdc;\n}\n\n.btn-info:active, .btn-info.active,\n.show > .btn-info.dropdown-toggle {\n  background-color: #23bcc9;\n  background-image: none;\n  border-color: #21b2bf;\n}\n\n.btn-warning {\n  color: #111;\n  background-color: #ffc107;\n  border-color: #ffc107;\n}\n\n.btn-warning:hover {\n  color: #111;\n  background-color: #e0a800;\n  border-color: #d39e00;\n}\n\n.btn-warning:focus, .btn-warning.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(255, 193, 7, 0.5);\n  box-shadow: 0 0 0 3px rgba(255, 193, 7, 0.5);\n}\n\n.btn-warning.disabled, .btn-warning:disabled {\n  background-color: #ffc107;\n  border-color: #ffc107;\n}\n\n.btn-warning:active, .btn-warning.active,\n.show > .btn-warning.dropdown-toggle {\n  background-color: #e0a800;\n  background-image: none;\n  border-color: #d39e00;\n}\n\n.btn-danger {\n  color: #fff;\n  background-color: #dc3545;\n  border-color: #dc3545;\n}\n\n.btn-danger:hover {\n  color: #fff;\n  background-color: #c82333;\n  border-color: #bd2130;\n}\n\n.btn-danger:focus, .btn-danger.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(220, 53, 69, 0.5);\n  box-shadow: 0 0 0 3px rgba(220, 53, 69, 0.5);\n}\n\n.btn-danger.disabled, .btn-danger:disabled {\n  background-color: #dc3545;\n  border-color: #dc3545;\n}\n\n.btn-danger:active, .btn-danger.active,\n.show > .btn-danger.dropdown-toggle {\n  background-color: #c82333;\n  background-image: none;\n  border-color: #bd2130;\n}\n\n.btn-light {\n  color: #111;\n  background-color: #f8f9fa;\n  border-color: #f8f9fa;\n}\n\n.btn-light:hover {\n  color: #111;\n  background-color: #e2e6ea;\n  border-color: #dae0e5;\n}\n\n.btn-light:focus, .btn-light.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(248, 249, 250, 0.5);\n  box-shadow: 0 0 0 3px rgba(248, 249, 250, 0.5);\n}\n\n.btn-light.disabled, .btn-light:disabled {\n  background-color: #f8f9fa;\n  border-color: #f8f9fa;\n}\n\n.btn-light:active, .btn-light.active,\n.show > .btn-light.dropdown-toggle {\n  background-color: #e2e6ea;\n  background-image: none;\n  border-color: #dae0e5;\n}\n\n.btn-dark {\n  color: #fff;\n  background-color: #343a40;\n  border-color: #343a40;\n}\n\n.btn-dark:hover {\n  color: #fff;\n  background-color: #23272b;\n  border-color: #1d2124;\n}\n\n.btn-dark:focus, .btn-dark.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(52, 58, 64, 0.5);\n  box-shadow: 0 0 0 3px rgba(52, 58, 64, 0.5);\n}\n\n.btn-dark.disabled, .btn-dark:disabled {\n  background-color: #343a40;\n  border-color: #343a40;\n}\n\n.btn-dark:active, .btn-dark.active,\n.show > .btn-dark.dropdown-toggle {\n  background-color: #23272b;\n  background-image: none;\n  border-color: #1d2124;\n}\n\n.btn-outline-primary {\n  color: #5989e5;\n  background-color: transparent;\n  background-image: none;\n  border-color: #5989e5;\n}\n\n.btn-outline-primary:hover {\n  color: #fff;\n  background-color: #5989e5;\n  border-color: #5989e5;\n}\n\n.btn-outline-primary:focus, .btn-outline-primary.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(89, 137, 229, 0.5);\n  box-shadow: 0 0 0 3px rgba(89, 137, 229, 0.5);\n}\n\n.btn-outline-primary.disabled, .btn-outline-primary:disabled {\n  color: #5989e5;\n  background-color: transparent;\n}\n\n.btn-outline-primary:active, .btn-outline-primary.active,\n.show > .btn-outline-primary.dropdown-toggle {\n  color: #fff;\n  background-color: #5989e5;\n  border-color: #5989e5;\n}\n\n.btn-outline-secondary {\n  color: #868e96;\n  background-color: transparent;\n  background-image: none;\n  border-color: #868e96;\n}\n\n.btn-outline-secondary:hover {\n  color: #fff;\n  background-color: #868e96;\n  border-color: #868e96;\n}\n\n.btn-outline-secondary:focus, .btn-outline-secondary.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(134, 142, 150, 0.5);\n  box-shadow: 0 0 0 3px rgba(134, 142, 150, 0.5);\n}\n\n.btn-outline-secondary.disabled, .btn-outline-secondary:disabled {\n  color: #868e96;\n  background-color: transparent;\n}\n\n.btn-outline-secondary:active, .btn-outline-secondary.active,\n.show > .btn-outline-secondary.dropdown-toggle {\n  color: #fff;\n  background-color: #868e96;\n  border-color: #868e96;\n}\n\n.btn-outline-success {\n  color: #28a745;\n  background-color: transparent;\n  background-image: none;\n  border-color: #28a745;\n}\n\n.btn-outline-success:hover {\n  color: #fff;\n  background-color: #28a745;\n  border-color: #28a745;\n}\n\n.btn-outline-success:focus, .btn-outline-success.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.5);\n  box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.5);\n}\n\n.btn-outline-success.disabled, .btn-outline-success:disabled {\n  color: #28a745;\n  background-color: transparent;\n}\n\n.btn-outline-success:active, .btn-outline-success.active,\n.show > .btn-outline-success.dropdown-toggle {\n  color: #fff;\n  background-color: #28a745;\n  border-color: #28a745;\n}\n\n.btn-outline-info {\n  color: #37cfdc;\n  background-color: transparent;\n  background-image: none;\n  border-color: #37cfdc;\n}\n\n.btn-outline-info:hover {\n  color: #fff;\n  background-color: #37cfdc;\n  border-color: #37cfdc;\n}\n\n.btn-outline-info:focus, .btn-outline-info.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(55, 207, 220, 0.5);\n  box-shadow: 0 0 0 3px rgba(55, 207, 220, 0.5);\n}\n\n.btn-outline-info.disabled, .btn-outline-info:disabled {\n  color: #37cfdc;\n  background-color: transparent;\n}\n\n.btn-outline-info:active, .btn-outline-info.active,\n.show > .btn-outline-info.dropdown-toggle {\n  color: #fff;\n  background-color: #37cfdc;\n  border-color: #37cfdc;\n}\n\n.btn-outline-warning {\n  color: #ffc107;\n  background-color: transparent;\n  background-image: none;\n  border-color: #ffc107;\n}\n\n.btn-outline-warning:hover {\n  color: #fff;\n  background-color: #ffc107;\n  border-color: #ffc107;\n}\n\n.btn-outline-warning:focus, .btn-outline-warning.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(255, 193, 7, 0.5);\n  box-shadow: 0 0 0 3px rgba(255, 193, 7, 0.5);\n}\n\n.btn-outline-warning.disabled, .btn-outline-warning:disabled {\n  color: #ffc107;\n  background-color: transparent;\n}\n\n.btn-outline-warning:active, .btn-outline-warning.active,\n.show > .btn-outline-warning.dropdown-toggle {\n  color: #fff;\n  background-color: #ffc107;\n  border-color: #ffc107;\n}\n\n.btn-outline-danger {\n  color: #dc3545;\n  background-color: transparent;\n  background-image: none;\n  border-color: #dc3545;\n}\n\n.btn-outline-danger:hover {\n  color: #fff;\n  background-color: #dc3545;\n  border-color: #dc3545;\n}\n\n.btn-outline-danger:focus, .btn-outline-danger.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(220, 53, 69, 0.5);\n  box-shadow: 0 0 0 3px rgba(220, 53, 69, 0.5);\n}\n\n.btn-outline-danger.disabled, .btn-outline-danger:disabled {\n  color: #dc3545;\n  background-color: transparent;\n}\n\n.btn-outline-danger:active, .btn-outline-danger.active,\n.show > .btn-outline-danger.dropdown-toggle {\n  color: #fff;\n  background-color: #dc3545;\n  border-color: #dc3545;\n}\n\n.btn-outline-light {\n  color: #f8f9fa;\n  background-color: transparent;\n  background-image: none;\n  border-color: #f8f9fa;\n}\n\n.btn-outline-light:hover {\n  color: #fff;\n  background-color: #f8f9fa;\n  border-color: #f8f9fa;\n}\n\n.btn-outline-light:focus, .btn-outline-light.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(248, 249, 250, 0.5);\n  box-shadow: 0 0 0 3px rgba(248, 249, 250, 0.5);\n}\n\n.btn-outline-light.disabled, .btn-outline-light:disabled {\n  color: #f8f9fa;\n  background-color: transparent;\n}\n\n.btn-outline-light:active, .btn-outline-light.active,\n.show > .btn-outline-light.dropdown-toggle {\n  color: #fff;\n  background-color: #f8f9fa;\n  border-color: #f8f9fa;\n}\n\n.btn-outline-dark {\n  color: #343a40;\n  background-color: transparent;\n  background-image: none;\n  border-color: #343a40;\n}\n\n.btn-outline-dark:hover {\n  color: #fff;\n  background-color: #343a40;\n  border-color: #343a40;\n}\n\n.btn-outline-dark:focus, .btn-outline-dark.focus {\n  -webkit-box-shadow: 0 0 0 3px rgba(52, 58, 64, 0.5);\n  box-shadow: 0 0 0 3px rgba(52, 58, 64, 0.5);\n}\n\n.btn-outline-dark.disabled, .btn-outline-dark:disabled {\n  color: #343a40;\n  background-color: transparent;\n}\n\n.btn-outline-dark:active, .btn-outline-dark.active,\n.show > .btn-outline-dark.dropdown-toggle {\n  color: #fff;\n  background-color: #343a40;\n  border-color: #343a40;\n}\n\n.btn-lg {\n  padding: 0.8rem 3.5rem;\n  font-size: 1.25rem;\n  line-height: 1.5;\n  border-radius: 50px;\n}\n\n.btn-sm {\n  padding: 0.4rem 1.5rem;\n  font-size: 0.875rem;\n  line-height: 1.5;\n  border-radius: 50px;\n}\n\n/*\n * 3. TYPE\n */\nbody {\n  font-family: \"Open Sans\", sans-serif;\n  font-size: 1rem;\n  font-weight: normal;\n  line-height: 1.5;\n  color: #212529;\n  background-color: #fff;\n}\n\na {\n  color: #5989e5;\n  text-decoration: none;\n}\n\na:focus, a:hover {\n  color: #215dd1;\n  text-decoration: underline;\n}\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4,\n.h5,\n.h6 {\n  margin-bottom: 0.5rem;\n  font-family: inherit;\n  font-weight: 800;\n  line-height: 1.1;\n  color: #2e324a;\n}\n\nh1,\n.h1 {\n  font-size: 2.9rem;\n}\n\nh2,\n.h2 {\n  font-size: 2.2rem;\n}\n\nh3,\n.h3 {\n  font-size: 1.75rem;\n}\n\nh4,\n.h4 {\n  font-size: 1.5rem;\n}\n\nh5,\n.h5 {\n  font-size: 1.25rem;\n}\n\nh6,\n.h6 {\n  font-size: 1rem;\n}\n\n.lead {\n  font-size: 1.2rem;\n  font-weight: 300;\n  line-height: 1.8em;\n}\n\n.display-1 {\n  font-size: 6rem;\n  font-weight: 300;\n  line-height: 1.1;\n}\n\n.display-2 {\n  font-size: 5.5rem;\n  font-weight: 300;\n  line-height: 1.1;\n}\n\n.display-3 {\n  font-size: 4.5rem;\n  font-weight: 300;\n  line-height: 1.1;\n}\n\n.display-4 {\n  font-size: 3.5rem;\n  font-weight: 300;\n  line-height: 1.1;\n}\n\nhr {\n  border-top: 1px solid rgba(0, 0, 0, 0.1);\n}\n\nsmall,\n.small {\n  font-size: 80%;\n  font-weight: normal;\n}\n\nmark,\n.mark {\n  padding: 0.2em;\n  background-color: #fcf8e3;\n}\n\n.blockquote {\n  padding: 3rem 2rem;\n  margin-bottom: 1rem;\n  font-size: 1.05rem;\n  border-left: 4px solid #5989e5;\n}\n\n.blockquote-footer {\n  color: #868e96;\n}\n\n.blockquote-footer::before {\n  content: \"\\2014 \\00A0\";\n}\n\n.text-primary {\n  color: #5989e5 !important;\n}\n\na.text-primary:focus, a.text-primary:hover {\n  color: #2d6ade !important;\n}\n\n/*\n * 4. PAGINATION\n */\n.page-item:first-child .page-link {\n  border-top-left-radius: 0.25rem;\n  border-bottom-left-radius: 0.25rem;\n}\n\n.page-item:last-child .page-link {\n  border-top-right-radius: 0.25rem;\n  border-bottom-right-radius: 0.25rem;\n}\n\n.page-item.active .page-link {\n  color: #fff;\n  background-color: #5989e5;\n  border-color: #5989e5;\n}\n\n.page-item.disabled .page-link {\n  color: #868e96;\n  background-color: #fff;\n  border-color: #ddd;\n}\n\n.page-link {\n  padding: 0.5rem 0.75rem;\n  line-height: 1.25;\n  color: #5989e5;\n  background-color: #fff;\n  border: 1px solid #ddd;\n}\n\n.page-link:focus, .page-link:hover {\n  color: #215dd1;\n  text-decoration: none;\n  background-color: #e9ecef;\n  border-color: #ddd;\n}\n\n.pagination-lg .page-link {\n  padding: 0.75rem 1.5rem;\n  font-size: 1.25rem;\n  line-height: 1.5;\n}\n\n.pagination-lg .page-item:first-child .page-link {\n  border-top-left-radius: 0.3rem;\n  border-bottom-left-radius: 0.3rem;\n}\n\n.pagination-lg .page-item:last-child .page-link {\n  border-top-right-radius: 0.3rem;\n  border-bottom-right-radius: 0.3rem;\n}\n\n.pagination-sm .page-link {\n  padding: 0.25rem 0.5rem;\n  font-size: 0.875rem;\n  line-height: 1.5;\n}\n\n.pagination-sm .page-item:first-child .page-link {\n  border-top-left-radius: 0.2rem;\n  border-bottom-left-radius: 0.2rem;\n}\n\n.pagination-sm .page-item:last-child .page-link {\n  border-top-right-radius: 0.2rem;\n  border-bottom-right-radius: 0.2rem;\n}\n\n/*\n* 5. UTILITIES\n*/\n.bg-primary {\n  background-color: #5989e5 !important;\n}\n\na.bg-primary:focus, a.bg-primary:hover {\n  background-color: #2d6ade !important;\n}\n\n.bg-secondary {\n  background-color: #868e96 !important;\n}\n\na.bg-secondary:focus, a.bg-secondary:hover {\n  background-color: #6c757d !important;\n}\n\n.bg-success {\n  background-color: #28a745 !important;\n}\n\na.bg-success:focus, a.bg-success:hover {\n  background-color: #1e7e34 !important;\n}\n\n.bg-info {\n  background-color: #37cfdc !important;\n}\n\na.bg-info:focus, a.bg-info:hover {\n  background-color: #21b2bf !important;\n}\n\n.bg-warning {\n  background-color: #ffc107 !important;\n}\n\na.bg-warning:focus, a.bg-warning:hover {\n  background-color: #d39e00 !important;\n}\n\n.bg-danger {\n  background-color: #dc3545 !important;\n}\n\na.bg-danger:focus, a.bg-danger:hover {\n  background-color: #bd2130 !important;\n}\n\n.bg-light {\n  background-color: #f8f9fa !important;\n}\n\na.bg-light:focus, a.bg-light:hover {\n  background-color: #dae0e5 !important;\n}\n\n.bg-dark {\n  background-color: #343a40 !important;\n}\n\na.bg-dark:focus, a.bg-dark:hover {\n  background-color: #1d2124 !important;\n}\n\n.border-primary {\n  border-color: #5989e5 !important;\n}\n\n.border-secondary {\n  border-color: #868e96 !important;\n}\n\n.border-success {\n  border-color: #28a745 !important;\n}\n\n.border-info {\n  border-color: #37cfdc !important;\n}\n\n.border-warning {\n  border-color: #ffc107 !important;\n}\n\n.border-danger {\n  border-color: #dc3545 !important;\n}\n\n.border-light {\n  border-color: #f8f9fa !important;\n}\n\n.border-dark {\n  border-color: #343a40 !important;\n}\n\n.text-primary {\n  color: #5989e5 !important;\n}\n\na.text-primary:focus, a.text-primary:hover {\n  color: #2d6ade !important;\n}\n\n.text-secondary {\n  color: #868e96 !important;\n}\n\na.text-secondary:focus, a.text-secondary:hover {\n  color: #6c757d !important;\n}\n\n.text-success {\n  color: #28a745 !important;\n}\n\na.text-success:focus, a.text-success:hover {\n  color: #1e7e34 !important;\n}\n\n.text-info {\n  color: #37cfdc !important;\n}\n\na.text-info:focus, a.text-info:hover {\n  color: #21b2bf !important;\n}\n\n.text-warning {\n  color: #ffc107 !important;\n}\n\na.text-warning:focus, a.text-warning:hover {\n  color: #d39e00 !important;\n}\n\n.text-danger {\n  color: #dc3545 !important;\n}\n\na.text-danger:focus, a.text-danger:hover {\n  color: #bd2130 !important;\n}\n\n.text-light {\n  color: #f8f9fa !important;\n}\n\na.text-light:focus, a.text-light:hover {\n  color: #dae0e5 !important;\n}\n\n.text-dark {\n  color: #343a40 !important;\n}\n\na.text-dark:focus, a.text-dark:hover {\n  color: #1d2124 !important;\n}\n",
+			"file": "/C/wamp/www/landy/css/style.default.css",
+			"file_size": 35688,
+			"file_write_time": 131787901821050853,
+			"settings":
+			{
+				"buffer_size": 35689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/advectm/css/helper.css",
+			"settings":
+			{
+				"buffer_size": 259556,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/advectm",
+		"/C/wamp/www/advectm/img",
+		"/C/wamp/www/advectm/pages",
+		"/C/wamp/www/advectm/parts"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/advectm/pages/careers-full.php",
+		"/C/wamp/www/advectm/head.php",
+		"/C/wamp/www/advectm/script.php",
+		"/C/wamp/www/advectm/home-content.php",
+		"/C/wamp/www/advectm/pages/careers.php",
+		"/C/wamp/www/centerpointt/minda/applydel.php",
+		"/C/wamp/www/centerpointt/minda/applydl.php",
+		"/C/wamp/www/centerpointt/minda/applyreply.php",
+		"/C/wamp/www/centerpointt/minda/applyreply1.php",
+		"/C/wamp/www/centerpointt/minda/settings_edit.php",
+		"/C/wamp/www/centerpointt/minda/settings_edit1.php",
+		"/C/wamp/www/centerpointt/minda/cms_careers.php",
+		"/C/wamp/www/centerpointt/minda/cms_contacts.php",
+		"/C/wamp/www/centerpointt/minda/cms_contacts2.php",
+		"/C/wamp/www/centerpointt/minda/cms_contacts3.php",
+		"/C/wamp/www/centerpointt/minda/cms_contacts31.php",
+		"/C/wamp/www/centerpointt/minda/cms_contacts21.php",
+		"/C/wamp/www/centerpointt/minda/settings_user.php",
+		"/C/wamp/www/centerpointt/minda/settings_accdel.php",
+		"/C/wamp/www/centerpointt/minda/settings_add.php",
+		"/C/wamp/www/centerpointt/minda/apply.php",
+		"/C/wamp/www/centerpointt/minda/messages.php",
+		"/C/wamp/www/centerpointt/minda/messagedel.php",
+		"/C/wamp/www/centerpointt/minda/messagereply.php",
+		"/C/wamp/www/centerpointt/minda/messagereply1.php",
+		"/C/wamp/www/centerpointt/minda/login.php",
+		"/C/wamp/www/centerpointt/minda/dash_productsdel.php",
+		"/C/wamp/www/centerpointt/minda/cms_contacts1.php",
+		"/C/wamp/www/centerpointt/minda/cms_careersalbum.php",
+		"/C/wamp/www/centerpointt/minda/cms_careersdel1.php",
+		"/C/wamp/www/centerpointt/minda/cms_careersdel.php",
+		"/C/wamp/www/centerpointt/minda/cms_careersadd.php",
+		"/C/wamp/www/centerpointt/minda/cms_careersadd1.php",
+		"/C/wamp/www/centerpointt/minda/cms_careersseditdet.php",
+		"/C/wamp/www/centerpointt/minda/cms_careersseditdet1.php",
+		"/C/wamp/www/centerpointt/minda/db.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_careerlogoed.php",
+		"/C/wamp/www/centerpointt/minda/cms_slidered.php",
+		"/C/wamp/www/centerpointt/minda/cms_aboutup.php",
+		"/C/wamp/www/centerpointt/minda/cms_aboutvis.php",
+		"/C/wamp/www/centerpointt/minda/cms_aboutmis.php",
+		"/C/wamp/www/centerpointt/minda/cms_aboutcar.php",
+		"/C/wamp/www/centerpointt/minda/cms_serviceseditdet.php",
+		"/C/wamp/www/centerpointt/minda/cms_serviceseditdet1.php",
+		"/C/wamp/www/centerpointt/minda/cms_serviceseditimg.php",
+		"/C/wamp/www/centerpointt/minda/cms_serviceseditimg1.php",
+		"/C/wamp/www/centerpointt/minda/welcome_news.php",
+		"/C/wamp/www/centerpointt/minda/welcome_newsadd.php",
+		"/C/wamp/www/centerpointt/minda/welcome_events.php",
+		"/C/wamp/www/centerpointt/minda/welcome_newseditimg.php",
+		"/C/wamp/www/centerpointt/minda/welcome_newseditdet.php",
+		"/C/wamp/www/centerpointt/minda/welcome_eventseditdet.php",
+		"/C/wamp/www/centerpointt/minda/welcome_newseditdet1.php",
+		"/C/wamp/www/centerpointt/minda/welcome_eventseditdet1.php",
+		"/C/wamp/www/centerpointt/minda/welcome_newsadd1.php",
+		"/C/wamp/www/centerpointt/minda/welcome_newsdel.php",
+		"/C/wamp/www/centerpointt/minda/welcome_eventsdel.php",
+		"/C/wamp/www/centerpointt/minda/welcome_notice.php",
+		"/C/wamp/www/centerpointt/minda/welcome_noticeeditdet.php",
+		"/C/wamp/www/centerpointt/minda/welcome_noticeeditdet1.php",
+		"/C/wamp/www/centerpointt/minda/welcome_noticeeditimg.php",
+		"/C/wamp/www/centerpointt/minda/welcome_noticeeditimg1.php",
+		"/C/wamp/www/centerpointt/minda/welcome_noticeadd1.php",
+		"/C/wamp/www/centerpointt/minda/welcome_noticedel.php",
+		"/C/wamp/www/centerpointt/minda/welcome_eventsadd.php",
+		"/C/wamp/www/centerpointt/minda/welcome_newseditimg1.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_careerlogoed1.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_aboutlogoed.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_aboutlogo.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_homelogoed1.php",
+		"/C/wamp/www/centerpointt/minda/cms_homelogoed1.php",
+		"/C/wamp/www/centerpointt/minda/cms_homelogoed.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_homelogoed.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_homelogo.php",
+		"/C/wamp/www/centerpointt/minda/cms_home.php",
+		"/C/wamp/www/centerpointt/minda/dash_categories.php",
+		"/C/wamp/www/centerpointt/minda/dash_albumdel.php",
+		"/C/wamp/www/centerpointt/minda/dash_categoriesdel.php",
+		"/C/wamp/www/centerpointt/minda/dash_album.php",
+		"/C/wamp/www/centerpointt/minda/dash_productseditimg1.php",
+		"/C/wamp/www/centerpointt/minda/dash_productseditimg.php",
+		"/C/wamp/www/centerpointt/minda/dash_productseditdet1.php",
+		"/C/wamp/www/centerpointt/minda/dash_productseditdet.php",
+		"/C/wamp/www/centerpointt/minda/dash_productsadd1.php",
+		"/C/wamp/www/centerpointt/minda/dash_productsadd.php",
+		"/C/wamp/www/centerpointt/minda/welcome.php",
+		"/C/wamp/www/centerpointt/minda/dash_products.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_aboutlogoed1.php",
+		"/C/wamp/www/centerpointt/minda/cms_home_careerlogo.php",
+		"/C/wamp/www/centerpointt/minda/cms_slider.php",
+		"/C/wamp/www/centerpointt/minda/cms_about.php",
+		"/C/wamp/www/centerpointt/minda/cms_servicesdel.php",
+		"/C/wamp/www/centerpointt/minda/cms_about_vision.php",
+		"/C/wamp/www/centerpointt/minda/cms_about_mission.php",
+		"/C/wamp/www/centerpointt/minda/cms_about_career.php",
+		"/C/wamp/www/centerpointt/minda/cms_services.php",
+		"/C/wamp/www/centerpointt/minda/cms_servicesadd.php",
+		"/C/wamp/www/centerpointt/minda/cms_servicesadd1.php",
+		"/C/wamp/www/advect/css/style.css",
+		"/C/wamp/www/amc/css/style.css",
+		"/C/wamp/www/Reveal/lib/owlcarousel/assets/owl.carousel.min.css",
+		"/E/KAYE/ID/VVI/IMG/2/IMG/LENIE_DIAZ-12.jpg",
+		"/C/wamp/www/amc/css/helper.css",
+		"/C/wamp/www/business/index.html",
+		"/C/wamp/www/amc/css/scrolling-nav.css",
+		"/E/KAYE/WEBSITES/stellar.js-master/test/jquery.stellar.html",
+		"/C/wamp/www/advect/index.php",
+		"/C/wamp/www/advect/db.php",
+		"/C/Program Files (x86)/Adobe/Adobe Illustrator CS6/Support Files/Contents/Windows/Illustrator.exe",
+		"/C/wamp/www/centerpoint/jobapplication.php",
+		"/C/Users/WEB-IT/Desktop/db.php",
+		"/C/wamp/www/centerpoint/viewcareers.php",
+		"/C/wamp/www/centerpoint/news.php",
+		"/C/wamp/www/centerpoint/index.php",
+		"/C/Users/WEB-IT/Desktop/index.php",
+		"/C/wamp/www/centerpoint/db.php",
+		"/G/Personal Projects/Are you Serious/Centerpoint/js/script.js",
+		"/G/Personal Projects/Are you Serious/Centerpoint/index.html",
+		"/G/Personal Projects/Are you Serious/Centerpoint/css/custom.css",
+		"/G/Personal Projects/Website Redesign/Centerpoint/index.html",
+		"/C/Users/WEB-IT/Desktop/Centerpoint final layout/index.html",
+		"/C/Users/WEB-IT/Desktop/maam jean/batmfa__.ttf",
+		"/C/Users/WEB-IT/Desktop/maam jean/batmfo__.ttf",
+		"/G/Personal Projects/Are you Serious/Centerpoint final layout/css/custom.css",
+		"/C/Users/WEB-IT/Desktop/Hover-master/css/hover.css",
+		"/G/Personal Projects/Are you Serious/Centerpoint final layout/index.html",
+		"/G/Personal Projects/St Therese 2/index.html",
+		"/G/Personal Projects/Are you Serious/Centerpoint final layout/js/script.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"4",
+			"#logo",
+			".record",
+			"animate",
+			"partners",
+			"partners ",
+			"opacity",
+			".scroll",
+			"nav-menu-container",
+			"#logo",
+			"header",
+			"#header",
+			"carousel",
+			"services_title",
+			"service_title",
+			".hero",
+			"hero",
+			"nav",
+			"font-family",
+			"span",
+			"lead",
+			"about",
+			"HERO",
+			"nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\wamp\\www\\centerpoint"
+		},
+		{
+			"path": "C:\\wamp\\www\\centerpointt"
+		},
+		{
+			"path": "C:\\wamp\\www\\amc"
+		},
+		{
+			"path": "C:\\wamp\\www\\advectph"
+		},
+		{
+			"path": "C:\\wamp\\www\\landy"
+		},
+		{
+			"path": "C:\\wamp\\www\\Reveal"
+		},
+		{
+			"path": "C:\\wamp\\www\\advect"
+		},
+		{
+			"path": "C:\\wamp\\www\\advectm"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/advectm/home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2304,
+								2304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/advectm/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/advectm/parts/head.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1781,
+								1781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/advectm/css/responsive.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"auto_name": "bb",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/wamp/www/advectm/pages/careers.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp/www/advectm/pages/home.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2150,
+								2150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 572.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp/www/advectm/pages/home-content.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3268,
+								3268
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp/www/advectm/parts/script.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/wamp/www/advect/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3005,
+								3005
+							]
+						],
+						"settings":
+						{
+							"auto_name": "html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 975.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/wamp/www/amc/js/scroll.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/wamp/www/amc/css/default.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 319.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/wamp/www/amc/js/scrollIt.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1417,
+								1417
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(function(e){\"use strict\";var t=\"ScrollIt\",n=\"1.0.",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/wamp/www/amc/css/nav.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/wamp/www/amc/css/helper.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1145,
+								1145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 29.0,
+						"translation.y": 286.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 15,
+					"file": "/C/wamp/www/centerpointt/minda/welcome_noticeadd.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/wamp/www/centerpointt/minda/welcome_eventsadd1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/wamp/www/centerpointt/minda/dash_products.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11593,
+								9604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3820.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/wamp/www/Reveal/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2139,
+								2139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 520.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "custom.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5154,
+								5154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2002.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/C/wamp/www/advectm/css/icons.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"auto_name": "hbh",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 854.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/C/wamp/www/Reveal/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2256,
+								2099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12584.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/C/wamp/www/advectm/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/C/wamp/www/advectm/css/default.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "/C/wamp/www/landy/css/style.default.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/C/wamp/www/advectm/css/helper.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3357,
+								3357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.4580674567,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
